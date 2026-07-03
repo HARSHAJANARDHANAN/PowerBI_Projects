@@ -72,7 +72,7 @@ The GIF below demonstrates the interactive features of the Power BI dashboard.
 
 ![Dashboard Demo](Screenshots/dashboard_demo.gif)
 
-## 📷 Dashboard Screenshot
+## 📷 Dashboard Preview
 
 ![Dashboard Screenshot](Screenshots/dashboard.png)
 
