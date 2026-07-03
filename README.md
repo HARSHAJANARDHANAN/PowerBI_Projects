@@ -1,4 +1,5 @@
 # 📊 Superstore Performance & Returns Analysis
+
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard built using the Sample Superstore dataset. The dashboard analyzes business performance across sales, profit, orders, and product returns to uncover actionable insights that support strategic decision-making.
 
